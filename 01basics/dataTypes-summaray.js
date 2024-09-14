@@ -35,3 +35,5 @@ let myObj = {
 const myFunction = function(){
     console.log("Hello world");
 }
+// function return type of function but is actually a object function 
+// and also if we store it in any variable it remains function 
