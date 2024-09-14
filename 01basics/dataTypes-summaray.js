@@ -37,3 +37,7 @@ const myFunction = function(){
 }
 // function return type of function but is actually a object function 
 // and also if we store it in any variable it remains function 
+
+// console.log(typeof anotherId);
+
+// https://262.ecma-international.org/5.1/#sec-11.4.3
