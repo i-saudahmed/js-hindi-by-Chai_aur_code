@@ -10,8 +10,8 @@ console.log(3
      3) // code readability should be high
 
 console.log("Hitesh") 
-
-
+ 
+ 
 let name = "hitesh"
 let age = 18
 let isLoggedIn = false
