@@ -5,7 +5,7 @@ const balance = new Number(100);
 // console.log(balance);
 // we can also get more details like we got in string while creating the object
 
-// console.log(balance.toString().length);
+// console.log(balance.toString().length); 
 // console.log(balance.toFixed(1));
 
 const otherNumber = 123.8966;
