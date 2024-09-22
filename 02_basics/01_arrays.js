@@ -20,3 +20,5 @@ console.log(myArr);
 
 console.log(myArr.includes(4));
 console.log(myArr.indexOf(5));
+
+ 
