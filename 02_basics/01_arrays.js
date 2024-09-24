@@ -30,7 +30,7 @@ const newArr = myArr.join();
 // slice, splice
 // slice will keep original array same whereas the splice will crop or change the original array also slice doesn't include the range whereas splice will conside the range to crop 
 console.log("A ", myArr);
-
+ 
 const myn1 = myArr.slice(1, 3)
 console.log(myn1); // 1, 2
 
