@@ -57,12 +57,12 @@ const users = [
 // console.log(tinderUser);
 
 // console.log(Object.keys(tinderUser));
-// console.log(Object.values(tinderUser));
+// console.log(Object.values(tinderUser)); 
 // console.log(Object.entries(tinderUser));
 
 // console.log(tinderUser.hasOwnProperty('isLoggedIn'));
 // console.log(tinderUser.hasOwnProperty("name")); // you have to enter key not value
-
+ 
 
 const course = {
     coursename: "js in hindi",
