@@ -82,7 +82,7 @@ console.log(price);
 // { 
 //     "name": "hitesh",
 //     "coursename": "js in hindi",
-//     "price": "free"
+//     "price": "free" 
 // }
 // also type of json   api
 // [ 
