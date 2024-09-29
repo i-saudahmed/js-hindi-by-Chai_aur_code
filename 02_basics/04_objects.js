@@ -79,13 +79,13 @@ console.log(instructor);
 console.log(price);
 
 // JSON ....     keys are also string here 
-// {
+// { 
 //     "name": "hitesh",
 //     "coursename": "js in hindi",
 //     "price": "free"
 // }
 // also type of json   api
-// [
+// [ 
 //     {},
 //     {},
 //     {}
