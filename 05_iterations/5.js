@@ -35,4 +35,4 @@ const myCoding = [
 
 myCoding.forEach((curElem) => {
   console.log(curElem.languageName);
-});
+}); 
