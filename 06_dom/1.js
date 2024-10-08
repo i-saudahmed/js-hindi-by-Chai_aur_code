@@ -30,6 +30,14 @@ const turnGreen = myUl.querySelector("li");
 turnGreen.style.backgroundColor = "green";
 turnGreen.style.padding = "20px"
 
-const myH1 = document.querySelectorAll("h1");
 
-myH1[0].style.color = "pink";
+const myUlAll = document.querySelectorAll("ul");
+// myUlAll[0].style.color = "pink";
+
+myUlAll.forEach((curElem)=> curElem.style.color = "blue");
+
+const list_item = document.getElementsByClassName("list-item");
+// list_item.forEach((curElem)=> curElem.style.backgroundColor = "purple");
+// it will not work on html collection or node list you have to convert first in array 
+const converted_List_item = Array.from(list_item);
+converted_List_item.forEach((curElem)=> curElem.style.color = "orange");
