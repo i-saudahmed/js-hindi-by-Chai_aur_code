@@ -103,7 +103,7 @@
 //   .then((data) => {
 //     console.log(data);
 //   })
-//   .catch((error) => console.log(error));
+//   .catch((error) => console.log(error)); 
 
 const promise1 = Promise.resolve(3); // already resolved with value 3
 const promise2 = new Promise((resolve, reject) =>
