@@ -109,7 +109,7 @@ const promise1 = Promise.resolve(3); // already resolved with value 3
 const promise2 = new Promise((resolve, reject) =>
   setTimeout(resolve, 1000, "foooooo")
 ); 
-const promise3 = Promise.resolve(42);
+const promise3 = Promise.resolve(42); 
 
 Promise.all([promise1, promise2, promise3])
   .then((values) => {
