@@ -29,4 +29,4 @@ user1.increment();
 console.log(user1.score); // Output: 11
 
 console.log(user1.printMe());
- 
+  
